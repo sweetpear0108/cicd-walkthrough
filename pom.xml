@@ -15,7 +15,7 @@
 	<description>Day 13 revision project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-		<sonar.organization>sweetpear</sonar.organization>
+		<sonar.organization>sweetpear0108</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
